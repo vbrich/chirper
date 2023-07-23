@@ -7,6 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Quick Notes
+- php artisan server // start the server and go to http://localhost:8000
+- npm run dev // start Vite dev server and go to http://localhost:5173/ just to see it running
+- Start mailserver with "mailpit" and go to http://localhost:8025/#
+
+## Artisan Commands Used
+- php artisan route:list
+- php artisan migrate
+- php artisan migrate:fresh
+- php artisan make:model
+- php artisan tinker
+- php artisan make:policy
+- php artisan make:notification
+- php artisan make:event
+- php artisan make:listener
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
