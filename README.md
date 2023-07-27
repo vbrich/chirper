@@ -8,8 +8,9 @@
 </p>
 
 ## Quick Notes
-- php artisan server // start the server and go to http://localhost:8000
-- npm run dev // start Vite dev server and go to http://localhost:5173/ just to see it running
+- Start MySQL (on macbook it is using DBngin locally)
+- php artisan serve // start the server and go to http://localhost:8000
+- npm run dev // start Vite dev server (hot reload our React) and go to http://localhost:5173/ just to see it running
 - Start mailserver with "mailpit" and go to http://localhost:8025/#
 
 ## Artisan Commands Used
