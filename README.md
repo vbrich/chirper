@@ -13,6 +13,11 @@
 - npm run dev // start Vite dev server (hot reload our React) and go to http://localhost:5173/ just to see it running
 - Start mailserver with "mailpit" and go to http://localhost:8025/#
 
+## Overview
+- https://bootcamp.laravel.com/inertia/installation
+- rich@iltech.com / 4myballs, test@test.com / 4myballs
+- 
+
 ## Artisan Commands Used
 - php artisan route:list
 - php artisan migrate
